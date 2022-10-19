@@ -1,5 +1,7 @@
 code39 plugin for DokuWiki
 
+usage: <code39>2132498732</code39>
+
 
 All documentation for this plugin can be found at
 https://github.com/edwardcodelab/code39
