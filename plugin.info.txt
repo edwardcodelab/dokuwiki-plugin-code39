@@ -1,0 +1,7 @@
+base   code39
+author dodotori @ dokuwiki forum
+email  dodotori@localhost
+date   2022-10-19
+name   code39 plugin
+desc   display code39
+url    https://github.com/edwardcodelab/code39

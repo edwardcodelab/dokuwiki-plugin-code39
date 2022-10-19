@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Libre Barcode 39 Extended Text');
+.code39{
+    font-family: 'Libre Barcode 39 Extended Text';
+    font-size: 40px;
+}
